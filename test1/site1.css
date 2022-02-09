@@ -1,0 +1,27 @@
+body {
+}
+
+header {
+  background: #2e354f;
+  padding: 45px 0;
+  color: #fff;
+}
+
+section {
+  padding: 45px 0;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid magenta;
+  max-width: 620px;
+}
+
+ul {
+  font-size: 1rem;
+}
+
+img {
+  width: 90%;
+}
